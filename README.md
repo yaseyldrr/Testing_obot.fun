@@ -1,6 +1,7 @@
 # **🌐 Website Test Automation Project**
 
-This repository contains a personal project where I designed and implemented test automation for a sample website. The goal was to enhance my skills in automated testing and explore real-world scenarios using popular testing tools and frameworks.
+This repository contains a personal project where I designed and implemented test automation for a sample website https://obot.fun/.
+The goal was to enhance my skills in automated testing and explore real-world scenarios using popular testing tools and frameworks.
 
 ## **🎯 Objectives**
 
